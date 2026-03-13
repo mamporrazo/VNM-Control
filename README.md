@@ -56,6 +56,7 @@ To enable the REST Server, open SimCenter and go to General settings (⚙). The 
 1. Download the latest release from the [Releases](../../releases/latest) page
 2. Extract the zip anywhere on your PC
 3. Run `VNM Control.exe` — no installer needed
+4. ⚠️ Windows may show a protection warning on first run. Click "More info" → "Run anyway" to proceed. This happens with any unsigned app downloaded from the internet.
 
 The first time it runs, a `VNMControl.ini` configuration file will be created in the same folder. All your settings, hotkeys and presets are stored there.
 
