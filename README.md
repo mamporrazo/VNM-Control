@@ -6,7 +6,7 @@ VNM Control is a free real-time FFB tuning overlay for VNM sim racing bases. Ins
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/VNMCONTROL MAIN.png)
+![image](VNM CONTROL MAIN.png)
 
 **Main Window**
 ![HUD en juego](VNMCONTROL MAIN.png)
