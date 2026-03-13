@@ -6,12 +6,10 @@ VNM Control is a free real-time FFB tuning overlay for VNM sim racing bases. Ins
 ## Features
 
 VNM Control connects to VNM SimCenter via its REST API and gives you full control over your FFB parameters in real time. You can map any parameter to hotkeys on your wheel or button box, so adjustments happen instantly without touching the mouse or keyboard.
-
 The overlay is fully customizable — you choose which fields to display, where the HUD sits on screen, its size and opacity. If you run multiple monitors it will position itself automatically on whichever screen you set.
-
 Game profiles let you save different FFB configurations per title. When a supported game is detected, the right profile loads automatically so you are always starting with your preferred settings.
-
 Preset management lets you save, load and reset full FFB configurations at any time, making it easy to experiment and roll back if something doesn't feel right.
+
 ---
 
 ## Screenshots
