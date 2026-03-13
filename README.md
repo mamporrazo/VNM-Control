@@ -5,24 +5,29 @@ VNM Control is a free real-time FFB tuning overlay for VNM sim racing bases. Ins
 ---
 
 ## Screenshots
-
 **Main Window**
-![Main Windows](https://github.com/mamporrazo/VNM-Control/blob/main/VNM%20CONTROL%20MAIN.png?raw=true)
+
+![Main Window](https://github.com/mamporrazo/VNM-Control/blob/main/VNM%20CONTROL%20MAIN.png?raw=true)
 
 **General Settings**
+
 ![General settings](https://github.com/mamporrazo/VNM-Control/blob/main/VNM%20Control%20GENERAL%20Settings.png?raw=true)
 
 **Fields**
+
 ![Fields](https://github.com/mamporrazo/VNM-Control/blob/main/VNM%20Control%20-%20Fields.png?raw=true)
 
 
 **Game detection**
+
 ![Game detection](https://github.com/mamporrazo/VNM-Control/blob/main/VNM%20COntrol%20Gamne%20detection.png?raw=true)
 
 **Hotkeys**
+
 ![Hotkeys](https://github.com/mamporrazo/VNM-Control/blob/main/VNM%20COntrol%20Hotkeys.png?raw=true)
 
 **Presets**
+
 ![Presets](https://github.com/mamporrazo/VNM-Control/blob/main/VNM%20COntrol%20-%20Presets.png?raw=true)
 
 ---
